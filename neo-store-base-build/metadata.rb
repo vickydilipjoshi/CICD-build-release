@@ -1,0 +1,7 @@
+name 'java_base_build'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures java_base_build'
+long_description 'Installs/Configures java_base_build'
+version '0.1.0'

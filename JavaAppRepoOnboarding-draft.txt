@@ -1,0 +1,124 @@
+﻿lumenetix2012_logo.jpg 
+
+
+
+This wiki will guide you in on boarding your Java application. There are four sections: 
+* base build job (aka component job)
+* deployment job
+
+
+base build job (aka component job)
+streps../.
+
+
+
+
+
+
+1. Preparation/chef_run / 2. Jenkins Build Configuration  / 3. Artifactory Push  / 4. Artifactory Verification 
+
+
+Preparing your application starts by determining dependencies for your build which has been automated for. Recipes to be included in your default.rb(please keep this place nice and tidy) 
+* Java_base_build::default
+* Java_base_build::yum_update
+* Java_base_build::fetch_pkgs 
+
+
+Flattened the list of dependency packages into a single array variable  
+list of required packages :    application specfic (optimized for biz-api 9/17) 
+
+
+* ‘rpmdevtool', 
+* 'libtool-ltdl-devel', 
+* 'ImageMagick-devel',
+* 'libjpeg-turbo-devel', 
+* 'libjpeg-turbo-static', 
+* 'libjpeg-turbo', 
+* 'libjpeg-turbo-utils.x86_64', 
+* 'pngcrush', 
+* 'gifsicle'
+
+
+Java -  JDKs   - removed  this is now handled by jenkins     
+* JDK-8u45 
+* JDK-7
+
+
+default - creates necessary files structure, symbolic links and key_files
+* product dependent  
+* optimized for neo-store branch 
+
+
+
+
+
+
+
+
+	
+
+<dependencies>
+            <dependency>
+                    <groupId></groupId>
+                    <artifactId></artifactId>
+                    <version></version>
+            </dependency>
+         <dependency>
+                    <groupId></groupId>
+                    <artifactId></artifactId>
+                    <version></version>
+            </dependency>
+           
+    </dependencies>
+	
+
+
+
+
+
+
+
+ It is best to document these dependencies and update this sheet using the following linked format: 
+--internal company linked removed--  
+
+
+
+
+
+
+
+
+Once all your dependencies have been resolved, it is time to setup your Jenkins build. Jenkins Build Configuration The Jenkins server is located at the following address: 
+--internal company linked removed--
+#removed this jenkins job step
+
+
+
+
+#Jenkins sign-up 
+
+  
+Artifactory Push The Artifactory location is: --internal company linked removed--  You can also access it by typing --internal company linked removed-- You will need to request access from the Build and Release team. Once access is granted you can verify that your push from Jenkins to Artifactory was successful. To do so follow these directions
+ 
+
+
+install of your package and verify it is working
+
+
+
+
+#removed this artifactory step as it relys on the jenkins step
+
+
+
+
+
+
+Once chef-run has converged successfully    
+
+
+
+
+output: 
+  1.Single instance -Java based app ready instance - built and prepped for deploy
+  2.Single instance - Java based app deployed into tomcat -

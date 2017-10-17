@@ -1,0 +1,320 @@
+{
+  "actions" : [
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    }
+  ],
+  "description" : "<p>The VuFind Open Source Discovery Tool (<a href=\"http://Base-build.org\">http://Base-build.org</a>).</p>\r\n\r\n<img type=\"image/svg+xml\" height=\"300\" src=\"ws/build/Base-build2/reports/pdepend-pyramid.svg\" width=\"485\"></img>\r\n\r\n<img type=\"image/svg+xml\" height=\"300\" src=\"ws/build/Base-build2/reports/dependencies.svg\" width=\"485\"></img>",
+  "displayName" : "Base-build",
+  "displayNameOrNull" : null,
+  "name" : "Base-build",
+  "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/",
+  "buildable" : true,
+  "builds" : [
+    {
+      "number" : 2420,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2420/"
+    },
+    {
+      "number" : 2419,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2419/"
+    },
+    {
+      "number" : 2418,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2418/"
+    },
+    {
+      "number" : 2417,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2417/"
+    },
+    {
+      "number" : 2416,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2416/"
+    },
+    {
+      "number" : 2415,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2415/"
+    },
+    {
+      "number" : 2414,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2414/"
+    },
+    {
+      "number" : 2413,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2413/"
+    },
+    {
+      "number" : 2412,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2412/"
+    },
+    {
+      "number" : 2411,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2411/"
+    },
+    {
+      "number" : 2410,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2410/"
+    },
+    {
+      "number" : 2409,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2409/"
+    },
+    {
+      "number" : 2408,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2408/"
+    },
+    {
+      "number" : 2407,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2407/"
+    },
+    {
+      "number" : 2406,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2406/"
+    },
+    {
+      "number" : 2405,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2405/"
+    },
+    {
+      "number" : 2404,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2404/"
+    },
+    {
+      "number" : 2403,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2403/"
+    },
+    {
+      "number" : 2402,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2402/"
+    },
+    {
+      "number" : 2401,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2401/"
+    },
+    {
+      "number" : 2400,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2400/"
+    },
+    {
+      "number" : 2399,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2399/"
+    },
+    {
+      "number" : 2398,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2398/"
+    },
+    {
+      "number" : 2397,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2397/"
+    },
+    {
+      "number" : 2396,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2396/"
+    },
+    {
+      "number" : 2395,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2395/"
+    },
+    {
+      "number" : 2394,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2394/"
+    },
+    {
+      "number" : 2393,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2393/"
+    },
+    {
+      "number" : 2392,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2392/"
+    },
+    {
+      "number" : 2391,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2391/"
+    },
+    {
+      "number" : 2390,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2390/"
+    },
+    {
+      "number" : 2389,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2389/"
+    },
+    {
+      "number" : 2388,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2388/"
+    },
+    {
+      "number" : 2387,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2387/"
+    },
+    {
+      "number" : 2386,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2386/"
+    },
+    {
+      "number" : 2385,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2385/"
+    },
+    {
+      "number" : 2384,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2384/"
+    },
+    {
+      "number" : 2383,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2383/"
+    },
+    {
+      "number" : 2382,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2382/"
+    },
+    {
+      "number" : 2381,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2381/"
+    },
+    {
+      "number" : 2380,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2380/"
+    },
+    {
+      "number" : 2379,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2379/"
+    },
+    {
+      "number" : 2378,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2378/"
+    },
+    {
+      "number" : 2377,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2377/"
+    },
+    {
+      "number" : 2376,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2376/"
+    },
+    {
+      "number" : 2375,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2375/"
+    },
+    {
+      "number" : 2374,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2374/"
+    },
+    {
+      "number" : 2373,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2373/"
+    },
+    {
+      "number" : 2372,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2372/"
+    },
+    {
+      "number" : 2371,
+      "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2371/"
+    }
+  ],
+  "color" : "blue",
+  "firstBuild" : {
+    "number" : 2371,
+    "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2371/"
+  },
+  "healthReport" : [
+    {
+      "description" : "Clover Coverage: Elements 22% (11199/50520)",
+      "iconClassName" : "icon-health-20to39",
+      "iconUrl" : "health-20to39.png",
+      "score" : 22
+    },
+    {
+      "description" : "Build stability: 1 out of the last 5 builds failed.",
+      "iconClassName" : "icon-health-60to79",
+      "iconUrl" : "health-60to79.png",
+      "score" : 80
+    },
+    {
+      "description" : "Test Result: 0 tests failing out of a total of 804 tests.",
+      "iconClassName" : "icon-health-80plus",
+      "iconUrl" : "health-80plus.png",
+      "score" : 100
+    }
+  ],
+  "inQueue" : false,
+  "keepDependencies" : false,
+  "lastBuild" : {
+    "number" : 2420,
+    "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2420/"
+  },
+  "lastCompletedBuild" : {
+    "number" : 2420,
+    "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2420/"
+  },
+  "lastFailedBuild" : {
+    "number" : 2416,
+    "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2416/"
+  },
+  "lastStableBuild" : {
+    "number" : 2420,
+    "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2420/"
+  },
+  "lastSuccessfulBuild" : {
+    "number" : 2420,
+    "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2420/"
+  },
+  "lastUnstableBuild" : null,
+  "lastUnsuccessfulBuild" : {
+    "number" : 2416,
+    "url" : "http://ec2-54-172-247-52.compute-1.amazonaws.com/jenkins/job/Base-build2/2416/"
+  },
+  "nextBuildNumber" : 2421,
+  "property" : [
+    {
+      "includeTestSummary" : false,
+      "notifyAborted" : false,
+      "notifyBackToNormal" : false,
+      "notifyFailure" : false,
+      "notifyNotBuilt" : false,
+      "notifyRepeatedFailure" : false,
+      "notifySuccess" : false,
+      "notifyUnstable" : false,
+      "room" : "",
+      "showCommitList" : false,
+      "startNotification" : false,
+      "teamDomain" : "",
+      "token" : ""
+    }
+  ],
+  "queueItem" : null,
+  "concurrentBuild" : false,
+  "downstreamProjects" : [
+    
+  ],
+  "scm" : {
+    
+  },
+  "upstreamProjects" : [
+    
+  ]
+}

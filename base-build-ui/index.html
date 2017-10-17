@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> Build ui</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script>
+  $(function() {
+    $( "#build_format" ).selectmenu();
+ 
+    $( "#files" ).selectmenu();
+ 
+    $( "#environment" )
+      .selectmenu()
+      .selectmenu( "menuWidget" )
+        .addClass( "overflow" );
+  });
+  </script>
+  <style>
+    fieldset {
+      border: 0;
+    }
+    label {
+      display: block;
+      margin: 30px 0 0 0;
+    }
+    select {
+      width: 200px;
+    }
+    .overflow {
+      height: 200px;
+    }
+  </style>
+</head>
+<body>
+ 
+<div class="demo">
+ 
+<form action="#">
+ 
+  <fieldset>
+    <label for="build_format">Select a build_format</label>
+    <select name="build_format" id="build_format">
+      <option>Node</option>
+      <option>Mobile</option> 
+      <option selected="selected">Java</option>
+      <option>Web</option>
+    </select>
+ 
+<!--    <label for="files">Select a file</label>
+    <select name="files" id="files">
+      <optgroup label="Scripts">
+        <option value="jquery">jQuery.js</option>
+        <option value="jqueryui">ui.jQuery.js</option>
+      </optgroup>
+      <optgroup label="Other files">
+        <option value="somefile">Some unknown file</option>
+        <option value="someotherfile">Some other file with a very long option text</option>
+      </optgroup>
+    </select>
+ -->
+    <label for="environment">Select an environment</label>
+    <select name="environment" id="environment">
+      <option>Base-build</option>
+      <option selected="selected">Development-build</option>
+      <option>Staging-build</option>
+      <option>Non-Production</option>
+      <option>Production</option>
+    </select>
+  </fieldset>
+ 
+</form>
+ 
+</div>
+ 
+ 
+</body>
+</html>

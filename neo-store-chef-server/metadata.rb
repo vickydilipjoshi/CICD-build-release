@@ -1,0 +1,7 @@
+name 'chef-server'
+maintainer 'Andrew S Thompson'
+maintainer_email 'admin@entercloud.info'
+license 'all_rights'
+description 'Installs/Configures chef-server'
+long_description 'Installs/Configures chef-server'
+version '1.0.0'

@@ -1,0 +1,7 @@
+name 'neo-store-base-build'
+maintainer 'Andrew S thompson'
+maintainer_email 'admin@entercloud.info'
+license 'all_rights'
+description 'Installs/Configures java_base_build '
+long_description 'Installs/Configures java_base_build'
+version '0.1.0'
